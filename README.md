@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prabhat Kumar! 
 
-<img align="right" src="https://github.com/Prabhat-6701/Prabhat-6701/blob/main/assets/monitor-screens.gif?raw=true" width="400"/>
+<img align="right" src="https://github.com/Prabhat-6701/Prabhat-6701/blob/main/assets/monitor-screens.gif?raw=true" width="300" height="200"/>
 
 ## 👨‍💻 About Me
 
@@ -62,6 +62,7 @@
 
 - 📫 Email: [prabhat.kumar@gmail.com](mailto:prabhat.kumar@gmail.com)
 - 🔗 LinkedIn: [Prabhat Kumar](https://www.linkedin.com/in/prabhat-kumar)
+- 🧩 LeetCode: [Prabhat's LeetCode](https://leetcode.com/u/Prabhu_6701/) 
 
 ---
 
