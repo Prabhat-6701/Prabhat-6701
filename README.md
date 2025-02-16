@@ -37,7 +37,8 @@
 
 ![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabhat-6701&show_icons=true&theme=radical&count_private=true&hide=prs)
 
-![Snake animation](https://github.com/Prabhat-6701/Prabhat-6701/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Prabhat-6701/Prabhat-6701/output/snake.svg)
+
 
 ---
 
